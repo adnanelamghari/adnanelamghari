@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, my name is Adnane Lamghari and i'm a Softawre engineer 💻
+## Hi there !
+
+My name is Adnane Lamghari and i'm a Softawre engineer 💻
 
 
 ### 🎙️ Activities 👯 
 *  FullStack JS developer at Rutabago (https://rutabago.com).
+*  FullStack JS developer at SmartOp (https://smartop.io).
 
 ### 💬 Want to connect? 📫
 * LinkedIn: https://www.linkedin.com/in/adnane-lamghari/
