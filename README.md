@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there, my name is Adnane Lamghari and i'm a Softawre engineer 💻
+
+
+### 🎙️ Activities 👯 
+*  FullStack JS developer at Rutabago (https://rutabago.com).
+
+### 💬 Want to connect? 📫
+* LinkedIn: https://www.linkedin.com/in/adnane-lamghari/
+* Twitter: https://twitter.com/AdnaneLamghari
+* E-mail: adnane.lmg@gmail.com
+
