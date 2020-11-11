@@ -28,3 +28,4 @@ My name is Adnane Lamghari and i'm a Softawre engineer 💻
 * Twitter: https://twitter.com/AdnaneLamghari
 * E-mail: adnane.lmg@gmail.com
 
+![Adnane's github stats](https://github-readme-stats.vercel.app/api?username=adnanelamghari&show_icons=true)
