@@ -48,7 +48,7 @@ I tend to make use of modern MEAN Stack and other web technologies to build cool
 *  FullStack JS developer at [Rutabago](https://rutabago.com).
 *  FullStack JS developer at [SmartOp](https://smartop.io).
 
-
+<!--
 ### 👯 Libraries
 
 [![ngx-mat-markdown-text-editor](https://github-readme-stats.vercel.app/api/pin/?username=adnanelamghari&repo=ngx-mat-markdown-text-editor&show_owner=false)](https://github.com/adnanelamghari/ngx-mat-markdown-text-editor)
@@ -56,7 +56,7 @@ I tend to make use of modern MEAN Stack and other web technologies to build cool
 [![ngx-mat-markdown-text-editor](https://github-readme-stats.vercel.app/api/pin/?username=adnanelamghari&repo=ngx-mat-tag-input&show_owner=true)](https://github.com/adnanelamghari/ngx-mat-tag-input)
 
 [![ngx-mat-markdown-text-editor](https://github-readme-stats.vercel.app/api/pin/?username=adnanelamghari&repo=payment-bank-card&show_owner=true)](https://github.com/adnanelamghari/payment-bank-card)
-
+-->
 
 ### 💬 Want to connect ?
 * [LinkedIn](https://www.linkedin.com/in/adnane-lamghari/): https://www.linkedin.com/in/adnane-lamghari/
