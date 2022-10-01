@@ -45,8 +45,7 @@ I tend to make use of modern MEAN Stack and other web technologies to build cool
 
 ### 🎙️ Activities
 *  Co-founder at [IPMYTV](https://ipmytv.com).
-*  FullStack JS developer at [Rutabago](https://rutabago.com).
-*  FullStack JS developer at [SmartOp](https://smartop.io).
+*  Software engineer at [Implicity](https://www.implicity.com).
 
 <!--
 ### 👯 Libraries
@@ -61,6 +60,5 @@ I tend to make use of modern MEAN Stack and other web technologies to build cool
 ### 💬 Want to connect ?
 * [LinkedIn](https://www.linkedin.com/in/adnane-lamghari/): https://www.linkedin.com/in/adnane-lamghari/
 * [Twitter](https://twitter.com/AdnaneLamghari): https://twitter.com/AdnaneLamghari
-* E-mail: adnane.lmg@gmail.com
 ### ⚡ Me on Github 
 ![Adnane's github stats](https://github-readme-stats.vercel.app/api?username=adnanelamghari&show_icons=true)
